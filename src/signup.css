@@ -1,0 +1,25 @@
+.formlay{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #1475cf;
+    border-radius: 10px;
+    height: 300px;
+    width: 500px;
+    cursor: pointer;
+    margin: auto;
+}
+.auth-wrappers {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+  }
+
+  .auth-inners {
+    width: 450px;
+    margin: auto;
+  }
